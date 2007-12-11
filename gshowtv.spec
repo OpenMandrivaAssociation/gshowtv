@@ -20,7 +20,7 @@ Requires: xmltv-grabbers
 Requires: perl-%{oname}
 
 %package -n perl-%{oname}
-Summary: Pperl module used by %{oname}
+Summary: Perl module used by %{oname}
 License: GPL
 Group: Development/GNOME and GTK+
 Requires: perl-Gtk2
