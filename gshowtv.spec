@@ -58,6 +58,7 @@ desktop-file-install --vendor="" \
   --remove-category="Application" \
   --remove-category="AudioVideo" \
   --remove-key="Encoding" \
+  --add-category="GTK" \
   --add-category="X-MandrivaLinux-Multimedia-Video" \
   --dir %{buildroot}%{_datadir}/applications/ \
   %{buildroot}%{_datadir}/applications/*
