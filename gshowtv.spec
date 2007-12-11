@@ -16,7 +16,7 @@ BuildArch: noarch
 BuildRequires: perl-Gtk2
 BuildRequires: perl(Locale::TextDomain)
 BuildRequires: desktop-file-utils
-Requires: xmltv-grabbers
+Requires: xmltv-druid
 Requires: perl-%{oname}
 
 %package -n perl-%{oname}
