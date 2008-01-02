@@ -11,6 +11,7 @@ Source: http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 URL: http://gshowtv.sourceforge.net/
 License: GPL
 Group: Graphical desktop/GNOME
+BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
 BuildRequires: perl-Gtk2
 BuildRequires: perl(Locale::TextDomain)
