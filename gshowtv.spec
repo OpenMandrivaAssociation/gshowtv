@@ -1,7 +1,7 @@
 %define name gshowtv
 %define oname GShowTV
 %define version 1.2.2
-%define release %mkrel 3
+%define release %mkrel 4
 
 Name: %{name}
 Summary: %{oname} - A Gnome TV Guide
