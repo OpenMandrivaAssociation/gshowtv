@@ -8,7 +8,7 @@ Summary: %{oname} - A Gnome TV Guide
 Version: %{version}
 Release: %{release}
 Source0: http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
-URL: http://gshowtv.sourceforge.net/
+URL: https://gshowtv.sourceforge.net/
 License: GPL
 Group: Graphical desktop/GNOME
 BuildArch: noarch
